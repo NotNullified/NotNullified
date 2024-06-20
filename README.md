@@ -1,7 +1,7 @@
 <h3 align="center">Python dev from the United States</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=notnullified&label=Profile%20views&color=0e75b6&style=flat" alt="notnullified" /> </p>
-<br/><br/>
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/804449137164156968?theme=dark&animated=false&hideSpotify=true)](https://discord.com/users/804449137164156968)
 
 <h3 align="left">Languages and Tools:</h3>
