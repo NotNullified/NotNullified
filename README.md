@@ -1,6 +1,6 @@
 <h3 align="center">A primarily Python dev</h3>
 
-- I’m currently working on [Marching World (currently private)](https://github.com/NotNullified)
+I’m currently working on [Marching World (currently private)](https://github.com/NotNullified)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
